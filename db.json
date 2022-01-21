@@ -1,36 +1,14 @@
-
-{
-  "nombres": [
-    {
-      "name": "Alexis"
-    },
-   {
-      "name": "Samuel"
-    }
-  ],
-  "paterno": [
-    {
-      "apaterno": "Puente"
-    },
-    {
-      "apaterno": "Rivera"
-    }
-  ],
-  "materno": [
-    {
-      "amaterno": "Garcia"
-    },
-    {
-      "amaterno": "Galvan"
-    }
-  ],
- "permiso": [
-    {
-      "per": "Gerente"
-    },
-    {
-      "per": "Ventas"
-    }
-  ]
- 
-}
+[
+  {
+    "name": "Alexis",
+    "paterno": "Puente",
+    "materno": "Garcia",
+    "puesto": "Gerencia"
+  },
+  {
+    "name": "Samuel",
+    "paterno": "Rivera",
+    "materno": "Galvan",
+    "puesto": "RH"
+  }
+]
