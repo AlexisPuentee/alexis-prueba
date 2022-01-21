@@ -1,15 +1,36 @@
 
-[
-  {
-    "id": 1,
-    "title": "Post 1"
-  },
-  {
-    "id": 2,
-    "title": "Post 2"
-  },
-  {
-    "id": 3,
-    "title": "Post 3"
-  }
-]
+{
+  "nombres": [
+    {
+      "name": "Alexis"
+    },
+   {
+      "name": "Samuel"
+    }
+  ],
+  "paterno": [
+    {
+      "apaterno": "Puente"
+    },
+    {
+      "apaterno": "Rivera"
+    }
+  ],
+  "materno": [
+    {
+      "amaterno": "Garcia"
+    },
+    {
+      "amaterno": "Galvan"
+    }
+  ],
+ "permiso": [
+    {
+      "per": "Gerente"
+    },
+    {
+      "per": "Ventas"
+    }
+  ]
+ 
+}
