@@ -1,19 +1,20 @@
-[{
+[
+    {
         "name": "Alexis",
         "paterno": "Puente",
         "materno": "Garcia",
-        "permiso": "Gerente",
+        "permiso": "Gerente"
     },
     {
         "name": "Francisco",
         "paterno": "Ruiz",
         "materno": "Ramirez",
-        "permiso": "RH",
+        "permiso": "RH"
     },
     {
         "name": "Samuel",
         "paterno": "Rivera",
         "materno": "Galvan",
-        "permiso": "Ventas",
+        "permiso": "Ventas"
     }
 ]
