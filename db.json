@@ -1,17 +1,22 @@
 {
     "usuarios": [{
+        "id":1,
             "name": "Alexis",
             "paterno": "Puente",
             "materno": "Garcia",
             "permiso": "Gerente"
         },
         {
+        "id":2,
+            
             "name": "Francisco",
             "paterno": "Ruiz",
             "materno": "Ramirez",
             "permiso": "RH"
         },
         {
+             "id":,
+  
             "name": "Samuel",
             "paterno": "Rivera",
             "materno": "Galvan",
