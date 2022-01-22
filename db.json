@@ -1,14 +1,27 @@
-[
-  {
-    "name": "Alexis",
-    "paterno": "Puente",
-    "materno": "Garcia",
-    "puesto": "Gerencia"
-  },
-  {
-    "name": "Samuel",
-    "paterno": "Rivera",
-    "materno": "Galvan",
-    "puesto": "RH"
-  }
-]
+{
+    "usuarios": [{
+            "name": "Alexis",
+            "paterno": "Puente",
+            "materno": "Garcia",
+            "permiso": "Gerente"
+        },
+        {
+            "name": "Francisco",
+            "paterno": "Ruiz",
+            "materno": "Ramirez",
+            "permiso": "RH"
+        },
+        {
+            "name": "Samuel",
+            "paterno": "Rivera",
+            "materno": "Galvan",
+            "permiso": "Ventas"
+        }
+    ],
+    "productos": [{
+        "imagen": "https://www.bing.com/images/search?q=imagen&id=1DC5722A008624C0187357267C006CB9B17924AC&FORM=IQFRBA",
+        "precio": 15.5,
+        "nombre": "Suavitel",
+        "categoria": "Limpieza"
+    }]
+}
